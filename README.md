@@ -1,0 +1,2 @@
+# haskellbook-learn
+Learning Haskell :)
