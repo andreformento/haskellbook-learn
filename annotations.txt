@@ -1,0 +1,1 @@
+Install on atom: https://atom.io/packages/ide-haskell
