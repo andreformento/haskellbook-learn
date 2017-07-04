@@ -1,14 +1,17 @@
 module NumberishModule where
 
+-- typeclass
 class Numberish a where
     fromNumber :: Integer -> a
     toNumber :: a -> Integer
 
+-- type
 -- pretend newtype  is data for now
 newtype Age =
     Age Integer
     deriving (Eq, Show)
 
+-- instance of typeclass
 instance Numberish Age where
     fromNumber n = Age n
     toNumber (Age n) = n
