@@ -1,4 +1,4 @@
-module NumberishModule where
+module Numberish where
 
 -- typeclass
 class Numberish a where
