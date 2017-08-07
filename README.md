@@ -10,3 +10,10 @@ Based in [Haskell Programming From First Principles](http://haskellbook.com/) bo
 
 #### Details
 * `:set -Wall` to turn all warnings on REPL or build configuration
+
+#### Type
+```
+f :: a -> a
+f x = x
+```
+And then `:t f True`
