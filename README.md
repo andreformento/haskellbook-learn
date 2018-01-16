@@ -17,3 +17,7 @@ f :: a -> a
 f x = x
 ```
 And then `:t f True`
+
+## Install
+
+On Ubuntu `sudo apt-get install haskell-platform`
