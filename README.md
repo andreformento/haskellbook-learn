@@ -21,3 +21,7 @@ And then `:t f True`
 ## Install
 
 On Ubuntu `sudo apt-get install haskell-platform`
+
+8 myself
+from 9 we
+
