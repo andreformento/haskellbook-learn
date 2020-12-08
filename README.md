@@ -25,3 +25,6 @@ On Ubuntu `sudo apt install -y haskell-platform`
 8 myself
 from 9 we
 
+
+## References
+- http://learnyouahaskell.com/chapters
