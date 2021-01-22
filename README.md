@@ -28,3 +28,4 @@ from 9 we
 
 ## References
 - http://learnyouahaskell.com/chapters
+- http://haskell.tailorfontela.com.br/
