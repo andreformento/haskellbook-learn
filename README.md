@@ -20,11 +20,7 @@ And then `:t f True`
 
 ## Install
 
-On Ubuntu `sudo apt install -y haskell-platform`
-
-8 myself
-from 9 we
-
+Open with docker: `make open`
 
 ## References
 - http://learnyouahaskell.com/chapters
